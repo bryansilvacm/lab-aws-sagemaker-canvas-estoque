@@ -9,12 +9,12 @@ O objetivo desse projeto foi prever a movimentação e comportamento de um estoq
 
 ### 2. Construir/Treinar
 
--   Para Treinamento, importei o arquivo após tratá-lo, para o SageMaker e configurei as variáveis, sendo item id column: ID_PRODUTO, Target Column: VENDAS, E foi escolhido 5 dias para previsão. O modelo considera feiados brasileiros, e reconhece a granularidade dos doados como diário;
+-   Para Treinamento, importei o arquivo após tratá-lo, para o SageMaker e configurei as variáveis, sendo item id column: ID_PRODUTO, Target Column: VENDAS, E foi escolhido 5 dias para previsão. O modelo considera feriados brasileiros, e reconhece a granularidade dos doados como diário;
 - Após a configuração iniciou-se o treinamento que levou por volta de uma hora e meia.
 <img width="270" height="185" alt="image" src="https://github.com/user-attachments/assets/3795a3f1-58e6-4149-80ae-ee068e72ec65" />
 
 ### 3. Analisar
-- Ao análisar o modelo nota-se métricas não tão boas, isso ocorre devido ao pouco volume de dados e padrões irregulares. Para atingir metricas melhores o modelo precisa de mais volume de dados e mais tempo de treinamento
+- Ao análisar o modelo nota-se métricas não tão boas, isso ocorre devido ao pouco volume de dados e padrões irregulares. Para atingir metricas melhores o modelo precisa de mais volume de dados e mais tempo de treinamento, além disso tive problemas também com o limite de recursos devido a conta gratuita.
 Ainda assim foi possível obter alguns insights razoavelmente satisfatórios.
 <img width="1131" height="134" alt="image" src="https://github.com/user-attachments/assets/0aa59ff8-b72e-4750-a9ec-4fc50814e614" />
 
