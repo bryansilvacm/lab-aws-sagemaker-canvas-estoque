@@ -1,4 +1,4 @@
-<img width="270" height="185" alt="image" src="https://github.com/user-attachments/assets/b5d10b0c-719a-4638-b176-d6af7e46452c" /># 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem vindo ao Projeto Previsão de Estoque Intelgente  com SageMaker Canvas
 
