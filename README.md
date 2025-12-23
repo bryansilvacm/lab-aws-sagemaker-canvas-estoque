@@ -20,7 +20,7 @@ Ainda assim foi possível obter alguns insights razoavelmente satisfatórios.
 
 ### 4. Prever
 
-- Após o treinamento foi criado uma inferência para previsão, devido ao baixo volumes de dados o modelo não conseguiu prever todos os produtos, somente alguns (conforme a imagem e a tabela armazenado na pasta de arquivos deste forks)
+- Após o treinamento foi criado uma inferência para previsão, devido ao baixo volumes de dados o modelo não conseguiu prever todos os produtos, somente alguns (conforme a imagem e arquivo "previsão de vendas x  estoque" presente neste fork)
 - Observou-se que as vendas dos produtos 1004, 1017 e 1021, nos próximos 5 dias, não terão um crescimento de demanda, mas também não irão cair drasticamente, a demanda irá manter quase que a média de vendas em relação aos dias anteriores.
 - Nota-se também que será necessário repor o estoque dos produtos 1017 e 1021, nos dias 10/02 e 13/02, respectivamente, para que não faltem produtos nos próximos 5 dias.
 
